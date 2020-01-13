@@ -1,0 +1,786 @@
+{
+  "code":1,
+  "cinemas": [
+    {
+      "id": 8138,
+      "mark": 0,
+      "nm": "UME影城（上海宝山店）",
+      "sellPrice": "39.5",
+      "addr": "宝山区牡丹江路318号诺亚新天地D区4层",
+      "distance": "800m",
+      "tag": {
+        "allowRefund": 0,
+        "buyout": 0,
+        "cityCardTag": 0,
+        "deal": 0,
+        "endorse": 0,
+        "giftTag": "",
+        "hallType": [
+          "CGS中国巨幕厅",
+          "RealD 6FL厅"
+        ],
+        "hallTypeVOList": [
+          {
+            "name": "CGS中国巨幕厅",
+            "url": ""
+          },
+          {
+            "name": "RealD 6FL厅",
+            "url": ""
+          }
+        ],
+        "sell": 1,
+        "snack": 1,
+        "vipTag": "折扣卡"
+      },
+      "promotion": {
+        "cardPromotionTag": "开卡特惠，首单1张最高立减2元",
+        "couponPromotionTag": "",
+        "merchantActivityTag": "",
+        "packShowActivityTag": "",
+        "platformActivityTag": "",
+        "starActivityTag": ""
+      },
+      "showTimes": ""
+    },
+    {
+      "id": 28183,
+      "mark": 0,
+      "nm": "CGV影城（宝杨宝龙店）",
+      "sellPrice": "39",
+      "addr": "宝山区同济路669弄4号3层M-F3-021室",
+      "distance": "1.4km",
+      "tag": {
+        "allowRefund": 0,
+        "buyout": 0,
+        "cityCardTag": 0,
+        "deal": 0,
+        "endorse": 0,
+        "giftTag": "",
+        "hallType": [
+          "Dolby Cinema厅",
+          "4DX厅"
+        ],
+        "hallTypeVOList": [
+          {
+            "name": "Dolby Cinema厅",
+            "url": ""
+          },
+          {
+            "name": "4DX厅",
+            "url": ""
+          }
+        ],
+        "sell": 1,
+        "snack": 1,
+        "vipTag": "折扣卡"
+      },
+      "promotion": {
+          "cardPromotionTag": "开卡特惠，9.9元起开卡",
+          "couponPromotionTag": "",
+          "merchantActivityTag": "",
+          "packShowActivityTag": "",
+          "platformActivityTag": "",
+          "starActivityTag": ""
+      },
+      "showTimes": ""
+    },
+    {
+      "id": 2446,
+      "mark": 0,
+      "nm": "SFC上影影城（宝山店）",
+      "sellPrice": "39",
+      "addr": "宝山区永清路700号宝山体育中心1楼（近牡丹江路）",
+      "distance": "1.4km",
+      "tag": {
+        "allowRefund": 0,
+        "buyout": 0,
+        "cityCardTag": 0,
+        "deal": 0,
+        "endorse": 0,
+        "giftTag": "",
+        "hallType": [],
+        "hallTypeVOList": [],
+        "sell": 1,
+        "snack": 1,
+        "vipTag": "折扣卡"
+      },
+      "promotion": {
+        "cardPromotionTag": "开卡特惠，首单2张最高立减4元",
+        "couponPromotionTag": "",
+        "merchantActivityTag": "",
+        "packShowActivityTag": "",
+        "platformActivityTag": "",
+        "starActivityTag": ""
+      },
+      "showTimes": ""
+    },
+    {
+      "id": 15468,
+      "mark": 0,
+      "nm": "Free国际影城（宝杨店）",
+      "sellPrice": "34",
+      "addr": "宝山区杨行镇宝杨路3003号闿和阳光广场3F",
+      "distance": "4km",
+      "tag": {
+          "allowRefund": 1,
+          "buyout": 0,
+          "cityCardTag": 0,
+          "deal": 0,
+          "endorse": 1,
+          "giftTag": "",
+          "hallType": [
+              "60帧厅"
+          ],
+          "hallTypeVOList": [
+              {
+                  "name": "60帧厅",
+                  "url": ""
+              }
+          ],
+          "sell": 1,
+          "snack": 1,
+          "vipTag": "折扣卡"
+      },
+      "promotion": {
+          "cardPromotionTag": "开卡特惠，首单1张最高立减4元",
+          "couponPromotionTag": "",
+          "merchantActivityTag": "",
+          "packShowActivityTag": "",
+          "platformActivityTag": "",
+          "starActivityTag": ""
+      },
+      "showTimes": ""
+    },
+    {
+      "id": 23826,
+      "mark": 0,
+      "nm": "SFC上影影城（淞南店）",
+      "sellPrice": "27",
+      "addr": "宝山区长江西路380号（保利悦活荟）1楼",
+      "distance": "4.3km",
+      "tag": {
+        "allowRefund": 1,
+        "buyout": 0,
+        "cityCardTag": 0,
+        "deal": 0,
+        "endorse": 1,
+        "giftTag": "",
+        "hallType": [],
+        "hallTypeVOList": [],
+        "sell": 1,
+        "snack": 1,
+        "vipTag": "折扣卡"
+      },
+      "promotion": {
+        "cardPromotionTag": "开卡特惠，首单1张最高立减2元",
+        "couponPromotionTag": "",
+        "merchantActivityTag": "",
+        "packShowActivityTag": "",
+        "platformActivityTag": "",
+        "starActivityTag": ""
+      },
+      "showTimes": ""
+    },
+    {
+      "id": 24721,
+      "mark": 0,
+      "nm": "万达影城（北翼店）",
+      "sellPrice": "30",
+      "addr": "宝山区水产路2449号3楼",
+      "distance": "4.4km",
+      "tag": {
+        "allowRefund": 0,
+        "buyout": 0,
+        "cityCardTag": 0,
+        "deal": 0,
+        "endorse": 1,
+        "giftTag": "",
+        "hallType": [],
+        "hallTypeVOList": [],
+        "sell": 1,
+        "snack": 1,
+        "vipTag": "折扣卡"
+      },
+      "promotion": {
+        "cardPromotionTag": "开卡特惠，9.9元起开卡",
+        "couponPromotionTag": "",
+        "merchantActivityTag": "",
+        "packShowActivityTag": "",
+        "platformActivityTag": "",
+        "starActivityTag": ""
+      },
+      "showTimes": ""
+    },
+    {
+      "id": 17146,
+      "mark": 0,
+      "nm": "明星时代影城（上海淞南店）",
+      "sellPrice": "26",
+      "addr": "宝山区长江南路651号世纪联华2楼",
+      "distance": "4.7km",
+      "tag": {
+        "allowRefund": 0,
+        "buyout": 0,
+        "cityCardTag": 0,
+        "deal": 0,
+        "endorse": 0,
+        "giftTag": "",
+        "hallType": [],
+        "hallTypeVOList": [],
+        "sell": 1,
+        "snack": 1,
+        "vipTag": "折扣卡"
+      },
+      "promotion": {
+        "cardPromotionTag": "开卡特惠，首单2张最高立减4元",
+        "couponPromotionTag": "",
+        "merchantActivityTag": "",
+        "packShowActivityTag": "",
+        "platformActivityTag": "",
+        "starActivityTag": ""
+      },
+      "showTimes": ""
+    },
+    {
+        "id": 13974,
+        "mark": 0,
+        "nm": "万画影城（北上海广场店）",
+        "sellPrice": "34",
+        "addr": "宝山区蕴川路1555号2层（百联北上海购物中心）",
+        "distance": "5.3km",
+        "tag": {
+            "allowRefund": 1,
+            "buyout": 0,
+            "cityCardTag": 0,
+            "deal": 0,
+            "endorse": 1,
+            "giftTag": "",
+            "hallType": [],
+            "hallTypeVOList": [],
+            "sell": 1,
+            "snack": 1,
+            "vipTag": "折扣卡"
+        },
+        "promotion": {
+            "cardPromotionTag": "开卡特惠，首单1张最高立减4元",
+            "couponPromotionTag": "",
+            "merchantActivityTag": "",
+            "packShowActivityTag": "",
+            "platformActivityTag": "",
+            "starActivityTag": ""
+        },
+        "showTimes": ""
+    },
+    {
+        "id": 15951,
+        "mark": 0,
+        "nm": "亿博国际影城",
+        "sellPrice": "34",
+        "addr": "宝山区蕰川路1999号亿博大厦4楼",
+        "distance": "5.5km",
+        "tag": {
+            "allowRefund": 1,
+            "buyout": 0,
+            "cityCardTag": 0,
+            "deal": 0,
+            "endorse": 1,
+            "giftTag": "",
+            "hallType": [],
+            "hallTypeVOList": [],
+            "sell": 1,
+            "snack": 1,
+            "vipTag": "折扣卡"
+        },
+        "promotion": {
+            "cardPromotionTag": "开卡特惠，首单1张最高立减4元",
+            "couponPromotionTag": "",
+            "merchantActivityTag": "",
+            "packShowActivityTag": "",
+            "platformActivityTag": "",
+            "starActivityTag": ""
+        },
+        "showTimes": ""
+    },
+    {
+        "id": 24292,
+        "mark": 0,
+        "nm": "大地影院（杨浦区嘉誉悠方广场影城）",
+        "sellPrice": "34",
+        "addr": "杨浦区殷行路1388弄上海悠方R7楼3楼",
+        "distance": "6km",
+        "tag": {
+            "allowRefund": 0,
+            "buyout": 0,
+            "cityCardTag": 0,
+            "deal": 0,
+            "endorse": 1,
+            "giftTag": "",
+            "hallType": [
+                "杜比全景声厅"
+            ],
+            "hallTypeVOList": [
+                {
+                    "name": "杜比全景声厅",
+                    "url": ""
+                }
+            ],
+            "sell": 1,
+            "snack": 1,
+            "vipTag": "折扣卡"
+        },
+        "promotion": {
+            "cardPromotionTag": "开卡特惠，首单1张最高立减10元",
+            "couponPromotionTag": "",
+            "merchantActivityTag": "",
+            "packShowActivityTag": "",
+            "platformActivityTag": "",
+            "starActivityTag": ""
+        },
+        "showTimes": ""
+    },
+    {
+        "id": 25794,
+        "mark": 0,
+        "nm": "邻嘉影院",
+        "sellPrice": "22.9",
+        "addr": "宝山区蕴川路6号D区22幢",
+        "distance": "6.5km",
+        "tag": {
+            "allowRefund": 1,
+            "buyout": 0,
+            "cityCardTag": 0,
+            "deal": 0,
+            "endorse": 1,
+            "giftTag": "",
+            "hallType": [
+                "4K厅"
+            ],
+            "hallTypeVOList": [
+                {
+                    "name": "4K厅",
+                    "url": ""
+                }
+            ],
+            "sell": 1,
+            "snack": 0,
+            "vipTag": "折扣卡"
+        },
+        "promotion": {
+            "cardPromotionTag": "开卡特惠，首单1张最高立减2元",
+            "couponPromotionTag": "",
+            "merchantActivityTag": "",
+            "packShowActivityTag": "",
+            "platformActivityTag": "",
+            "starActivityTag": ""
+        },
+        "showTimes": ""
+    },
+    {
+        "id": 13075,
+        "mark": 0,
+        "nm": "大光明电影院（宝山店）",
+        "sellPrice": "23",
+        "addr": "宝山区殷高路65号3楼（殷高西路地铁站）",
+        "distance": "6.7km",
+        "tag": {
+            "allowRefund": 0,
+            "buyout": 0,
+            "cityCardTag": 0,
+            "deal": 0,
+            "endorse": 1,
+            "giftTag": "",
+            "hallType": [],
+            "hallTypeVOList": [],
+            "sell": 1,
+            "snack": 1,
+            "vipTag": "折扣卡"
+        },
+        "promotion": {
+            "cardPromotionTag": "",
+            "couponPromotionTag": "",
+            "merchantActivityTag": "",
+            "packShowActivityTag": "",
+            "platformActivityTag": "",
+            "starActivityTag": ""
+        },
+        "showTimes": ""
+    },
+    {
+        "id": 15754,
+        "mark": 0,
+        "nm": "中宏影城",
+        "sellPrice": "24",
+        "addr": "宝山区殷高西路555号西区3楼",
+        "distance": "6.9km",
+        "tag": {
+            "allowRefund": 1,
+            "buyout": 0,
+            "cityCardTag": 0,
+            "deal": 0,
+            "endorse": 1,
+            "giftTag": "",
+            "hallType": [
+                "DTS:X 临境音厅"
+            ],
+            "hallTypeVOList": [
+                {
+                    "name": "DTS:X 临境音厅",
+                    "url": ""
+                }
+            ],
+            "sell": 1,
+            "snack": 1,
+            "vipTag": "折扣卡"
+        },
+        "promotion": {
+            "cardPromotionTag": "开卡特惠，首单1张最高立减2元",
+            "couponPromotionTag": "",
+            "merchantActivityTag": "",
+            "packShowActivityTag": "",
+            "platformActivityTag": "",
+            "starActivityTag": ""
+        },
+        "showTimes": ""
+    },
+    {
+        "id": 27490,
+        "mark": 0,
+        "nm": "新杨湾大光明影城",
+        "sellPrice": "19",
+        "addr": "宝山区江杨南路880号3幢D2-1室",
+        "distance": "7km",
+        "tag": {
+            "allowRefund": 0,
+            "buyout": 0,
+            "cityCardTag": 0,
+            "deal": 0,
+            "endorse": 0,
+            "giftTag": "",
+            "hallType": [
+                "DTS:X 临境音厅"
+            ],
+            "hallTypeVOList": [
+                {
+                    "name": "DTS:X 临境音厅",
+                    "url": ""
+                }
+            ],
+            "sell": 1,
+            "snack": 1,
+            "vipTag": ""
+        },
+        "promotion": {
+            "cardPromotionTag": "",
+            "couponPromotionTag": "",
+            "merchantActivityTag": "",
+            "packShowActivityTag": "",
+            "platformActivityTag": "",
+            "starActivityTag": ""
+        },
+        "showTimes": ""
+    },
+    {
+        "id": 14460,
+        "mark": 0,
+        "nm": "月浦文化馆影剧院",
+        "sellPrice": "33",
+        "addr": "宝山区龙镇路96号（四元路）",
+        "distance": "7km",
+        "tag": {
+            "allowRefund": 0,
+            "buyout": 0,
+            "cityCardTag": 0,
+            "deal": 0,
+            "endorse": 0,
+            "giftTag": "",
+            "hallType": [],
+            "hallTypeVOList": [],
+            "sell": 1,
+            "snack": 0,
+            "vipTag": "折扣卡"
+        },
+        "promotion": {
+            "cardPromotionTag": "开卡特惠，首单1张最高立减4元",
+            "couponPromotionTag": "",
+            "merchantActivityTag": "",
+            "packShowActivityTag": "",
+            "platformActivityTag": "",
+            "starActivityTag": ""
+        },
+        "showTimes": ""
+    },
+    {
+        "id": 27553,
+        "mark": 0,
+        "nm": "C＋影城（宝山新业坊LUXE 店）",
+        "sellPrice": "24",
+        "addr": "宝山区逸仙路1328号新业坊·源创10幢101室（殷高西路地铁站旁）",
+        "distance": "7km",
+        "tag": {
+            "allowRefund": 0,
+            "buyout": 0,
+            "cityCardTag": 0,
+            "deal": 0,
+            "endorse": 0,
+            "giftTag": "",
+            "hallType": [
+                "LUXE巨幕厅"
+            ],
+            "hallTypeVOList": [
+                {
+                    "name": "LUXE巨幕厅",
+                    "url": ""
+                }
+            ],
+            "sell": 1,
+            "snack": 1,
+            "vipTag": ""
+        },
+        "promotion": {
+            "cardPromotionTag": "",
+            "couponPromotionTag": "",
+            "merchantActivityTag": "",
+            "packShowActivityTag": "",
+            "platformActivityTag": "",
+            "starActivityTag": ""
+        },
+        "showTimes": ""
+    },
+    {
+        "id": 2444,
+        "mark": 0,
+        "nm": "万达影城（宝山万达广场店）",
+        "sellPrice": "40.9",
+        "addr": "宝山区一二八纪念路936号5楼（万达广场2号门直达电梯可到）",
+        "distance": "7.3km",
+        "tag": {
+            "allowRefund": 0,
+            "buyout": 0,
+            "cityCardTag": 0,
+            "deal": 0,
+            "endorse": 1,
+            "giftTag": "",
+            "hallType": [
+                "IMAX厅",
+                "4DX厅"
+            ],
+            "hallTypeVOList": [
+                {
+                    "name": "IMAX厅",
+                    "url": ""
+                },
+                {
+                    "name": "4DX厅",
+                    "url": ""
+                }
+            ],
+            "sell": 1,
+            "snack": 1,
+            "vipTag": "折扣卡"
+        },
+        "promotion": {
+            "cardPromotionTag": "开卡特惠，9.9元起开卡",
+            "couponPromotionTag": "",
+            "merchantActivityTag": "",
+            "packShowActivityTag": "",
+            "platformActivityTag": "",
+            "starActivityTag": ""
+        },
+        "showTimes": ""
+    },
+    {
+        "id": 16788,
+        "mark": 0,
+        "nm": "DFC影城（宝山店）",
+        "sellPrice": "35",
+        "addr": "宝山区共和新路5288号1楼",
+        "distance": "7.4km",
+        "tag": {
+            "allowRefund": 0,
+            "buyout": 0,
+            "cityCardTag": 0,
+            "deal": 0,
+            "endorse": 0,
+            "giftTag": "",
+            "hallType": [
+                "杜比全景声厅"
+            ],
+            "hallTypeVOList": [
+                {
+                    "name": "杜比全景声厅",
+                    "url": ""
+                }
+            ],
+            "sell": 1,
+            "snack": 1,
+            "vipTag": "折扣卡"
+        },
+        "promotion": {
+            "cardPromotionTag": "开卡特惠，首单1张最高立减4元",
+            "couponPromotionTag": "",
+            "merchantActivityTag": "",
+            "packShowActivityTag": "",
+            "platformActivityTag": "",
+            "starActivityTag": ""
+        },
+        "showTimes": ""
+    },
+    {
+      "id": 5547,
+      "mark": 0,
+      "nm": "博纳国际影城（中原店）",
+      "sellPrice": "40",
+      "addr": "杨浦区国和路777号中原城市广场2座4层",
+      "distance": "7.9km",
+      "tag": {
+        "allowRefund": 0,
+        "buyout": 0,
+        "cityCardTag": 0,
+        "deal": 0,
+        "endorse": 1,
+        "giftTag": "",
+        "hallType": [],
+        "hallTypeVOList": [],
+        "sell": 1,
+        "snack": 1,
+        "vipTag": "折扣卡"
+      },
+      "promotion": {
+        "cardPromotionTag": "开卡特惠，首单1张最高立减2元",
+        "couponPromotionTag": "",
+        "merchantActivityTag": "",
+        "packShowActivityTag": "",
+        "platformActivityTag": "",
+        "starActivityTag": ""
+      },
+      "showTimes": ""
+    },
+    {
+      "id": 16839,
+      "mark": 0,
+      "nm": "斐王影城",
+      "sellPrice": "25",
+      "addr": "宝山区场北路700号场北商业广场3楼",
+      "distance": "7.9km",
+      "tag": {
+        "allowRefund": 1,
+        "buyout": 0,
+        "cityCardTag": 0,
+        "deal": 0,
+        "endorse": 1,
+        "giftTag": "",
+        "hallType": [
+          "DTS:X 临境音厅"
+        ],
+        "hallTypeVOList": [
+          {
+            "name": "DTS:X 临境音厅",
+            "url": ""
+          }
+        ],
+        "sell": 1,
+        "snack": 1,
+        "vipTag": "折扣卡"
+      },
+      "promotion": {
+        "cardPromotionTag": "开卡特惠，首单1张最高立减2元",
+        "couponPromotionTag": "",
+        "merchantActivityTag": "",
+        "packShowActivityTag": "",
+        "platformActivityTag": "",
+        "starActivityTag": ""
+      },
+      "showTimes": ""
+    }
+  ],
+  "ct_pois": [
+    {
+      "ct_poi": "936879945111165696_a8138_c0",
+      "poiid": 5897617
+    },
+    {
+      "ct_poi": "936879945111165696_a28183_c1",
+      "poiid": 641162062
+    },
+    {
+      "ct_poi": "936879945111165696_a2446_c2",
+      "poiid": 2408708
+    },
+    {
+      "ct_poi": "936879945111165696_a15468_c3",
+      "poiid": 97185901
+    },
+    {
+      "ct_poi": "936879945111165696_a23826_c4",
+      "poiid": 159751095
+    },
+    {
+      "ct_poi": "936879945111165696_a24721_c5",
+      "poiid": 165247551
+    },
+    {
+      "ct_poi": "936879945111165696_a17146_c6",
+      "poiid": 152307943
+    },
+    {
+      "ct_poi": "936879945111165696_a13974_c7",
+      "poiid": 78371827
+    },
+    {
+      "ct_poi": "936879945111165696_a15951_c8",
+      "poiid": 90019548
+    },
+    {
+      "ct_poi": "936879945111165696_a24292_c9",
+      "poiid": 164154354
+    },
+    {
+      "ct_poi": "936879945111165696_a25794_c10",
+      "poiid": 179308557
+    },
+    {
+      "ct_poi": "936879945111165696_a13075_c11",
+      "poiid": 40237408
+    },
+    {
+      "ct_poi": "936879945111165696_a15754_c12",
+      "poiid": 96248908
+    },
+    {
+      "ct_poi": "936879945111165696_a27490_c13",
+      "poiid": 194519789
+    },
+    {
+      "ct_poi": "936879945111165696_a14460_c14",
+      "poiid": 86172434
+    },
+    {
+      "ct_poi": "936879945111165696_a27553_c15",
+      "poiid": 529289896
+    },
+    {
+      "ct_poi": "936879945111165696_a2444_c16",
+      "poiid": 1541466
+    },
+    {
+      "ct_poi": "936879945111165696_a16788_c17",
+      "poiid": 118749845
+    },
+    {
+      "ct_poi": "936879945111165696_a5547_c18",
+      "poiid": 1566371
+    },
+    {
+      "ct_poi": "936879945111165696_a16839_c19",
+      "poiid": 150068022
+    }
+  ],
+  "paging": {
+    "hasMore": true,
+    "limit": 20,
+    "offset": 0,
+    "total": 437
+  },
+  "resId": "1578454924102"
+}
